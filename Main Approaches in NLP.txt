@@ -1,0 +1,29 @@
+Main Approaches in NLP:
+
+
+
+1. Rule-based methods
+
+  - Regular expressions
+
+  - Context-free grammars
+
+  - ...
+
+
+2. Probabilistic modeling and machine learning
+
+  - Likelihood maximization
+
+  - Linear classifiers
+
+  - ...
+
+
+3. Deep learning
+
+  - Recurrent Neural Networks
+
+  - Convolutional Neural Networks
+
+  - ...
