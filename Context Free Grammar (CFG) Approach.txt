@@ -1,0 +1,14 @@
+1. Rule-Based Methods
+
+
+Context Free Grammar (CFG) Approach
+
+Advantages
+
+- High precision
+
+Disadvantages
+
+- Low recall
+- Time consuming
+- Manually write all rules
